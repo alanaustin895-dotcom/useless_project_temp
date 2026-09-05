@@ -2,24 +2,21 @@
 
 
 
-#  🎯
+#Rube Goldberg mini system 🎯
 
 
 ## Basic Details
-### Team Name: Rube Goldberg mini system
-
-### Team Members
-- Team Lead: AUSTIN M.A - scms school of engineering and technology
+- Lead by: AUSTIN M.A - scms school of engineering and technology
 
 
 ### Project Description
-converts rotational mation into a swinging motion and the no of swinging is counted using an esp32 that uses a sonar senser 
+Converts rotational motion into a swinging motion and the number of swings are counted using an esp32 that uses a sonar senser. 
 
 ### The Problem (that doesn't exist)
-the over suefullness of prodects 
+the over suefullness of products 
 
 ### The Solution (that nobody asked for)
-by useing ESP32-based “useless” project designed primarily for entertainment. The main objective of this project is to entertain the user by demonstrating a creative combination of mechanical motion and electronics in the form of a Rube Goldberg-style chain reaction.
+by using ESP32-based “useless” project designed primarily for entertainment. The main objective of this project is to entertain the user by demonstrating a creative combination of mechanical motion and electronics in the form of a Rube Goldberg-style chain reaction.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -36,20 +33,26 @@ For Hardware:
 
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+Circuit<img width="1536" height="1024" alt="Untitled design" src="https://github.com/user-attachments/assets/14426b32-dd2c-44e8-a633-734086266380" />
+
 *Add caption explaining connections*
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
+Components
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-06 at 4 57 47 AM" src="https://github.com/user-attachments/assets/20c3a974-f3e0-4455-9427-4766efc3ab14" />
+
+
 *List out all components shown*
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+Final<img width="974" height="1600" alt="WhatsApp Image 2026-09-06 at 5 04 42 AM" src="https://github.com/user-attachments/assets/faacf439-0cbd-427c-b0bb-8db51c76c1c9" />
+
 *Explain the final build*
 
 ### Project Demo
