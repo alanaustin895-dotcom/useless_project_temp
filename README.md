@@ -2,66 +2,38 @@
 
 
 
-# [Project Name] 🎯
+#  🎯
 
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: Rube Goldberg mini system
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: AUSTIN M.A - scms school of engineering and technology
+
 
 ### Project Description
-[2-3 lines about what your project does]
+converts rotational mation into a swinging motion and the no of swinging is counted using an esp32 that uses a sonar senser 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+the over suefullness of prodects 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+by useing ESP32-based “useless” project designed primarily for entertainment. The main objective of this project is to entertain the user by demonstrating a creative combination of mechanical motion and electronics in the form of a Rube Goldberg-style chain reaction.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- c++
+- arduino ide
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-- esp32 dev module, arduino uno
+- led 5
+- resistors 220ohm
+- li-ion battery 3.7v
+- sonar sensor
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
