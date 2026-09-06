@@ -34,11 +34,20 @@ For Hardware:
 
 # Schematic & Circuit
 Circuit<img width="1536" height="1024" alt="Untitled design" src="https://github.com/user-attachments/assets/14426b32-dd2c-44e8-a633-734086266380" />
-https://drive.google.com/file/d/1bu6BYpaYdNJEKfjRhASxmkDIJfY7yHeA/view?usp=drivesdk
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e4fe3f05-e3f4-419f-a52e-db078f52c6f5" />
+
+
+#this this the messurements and ratio reqired for the mechical system
+
+<img width="856" height="802" alt="image" src="https://github.com/user-attachments/assets/c4199057-260a-4aac-887b-dbe6d9164390" />
+<img width="865" height="437" alt="image" src="https://github.com/user-attachments/assets/c802f368-33a0-4f73-b703-7b9833352001" />
+<img width="840" height="683" alt="image" src="https://github.com/user-attachments/assets/9f939d1f-6f57-480a-9d35-86de73b9e395" />
+<img width="645" height="377" alt="image" src="https://github.com/user-attachments/assets/a222140d-28ed-486e-b4c5-21a8a4a38d19" />
+
+
+
+
 
 # Build Photos
 Components
