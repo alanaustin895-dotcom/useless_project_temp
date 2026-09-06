@@ -70,10 +70,10 @@ Here, the motor generates rotary motion, which is transferred through a four-bar
 The ESP32 controls five LEDs, which are used to count the number of swings. Each time the mechanism completes a swing, the corresponding LED is activated, creating a visual representation of the sequence.
 
 ### Project Demo
-(https://drive.google.com/file/d/1QtBaWT42bCI_CGHfu-jAAXTXgpLAqFlM/view?usp=drivesdk)
+
 
 # Additional Demos
-(https://drive.google.com/file/d/1WLwLmNIAEbSGLpz1vd8xXLsXks2Hr4L4/view?usp=drivesdk)
+(https://drive.google.com/file/d/1QtBaWT42bCI_CGHfu-jAAXTXgpLAqFlM/view?usp=drivesdk)
 
 
 ---
