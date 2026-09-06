@@ -71,10 +71,11 @@ The ESP32 controls five LEDs, which are used to count the number of swings. Each
 
 ### Project Demo
 
+https://drive.google.com/file/d/15WrGp-KRmZIGKwFspicKXE5dH_NlRbbQ/view?usp=drivesdk
 
 # Additional Demos
-(https://drive.google.com/file/d/1QtBaWT42bCI_CGHfu-jAAXTXgpLAqFlM/view?usp=drivesdk)
 
+https://drive.google.com/file/d/1xZERW6cRSIUgP0EvgIXRrn_FPsvZWFhL/view?usp=drivesdk
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
