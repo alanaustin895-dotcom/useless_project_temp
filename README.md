@@ -34,7 +34,7 @@ For Hardware:
 
 # Schematic & Circuit
 Circuit<img width="1536" height="1024" alt="Untitled design" src="https://github.com/user-attachments/assets/14426b32-dd2c-44e8-a633-734086266380" />
-
+https://drive.google.com/file/d/1bu6BYpaYdNJEKfjRhASxmkDIJfY7yHeA/view?usp=drivesdk
 *Add caption explaining connections*
 
 ![Schematic](Add your schematic diagram here)
