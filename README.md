@@ -2,7 +2,7 @@
 
 
 
-#Rube Goldberg mini system 🎯
+# Rube Goldberg mini system 🎯
 
 
 ## Basic Details
@@ -48,25 +48,33 @@ Components
 
 *List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+Build<img width="1408" height="768" alt="image_ee4713dd" src="https://github.com/user-attachments/assets/da5596ca-e37f-4cfa-b4be-33c024eeb420" />
 
+*Explain the build steps*
+1. start by finding the measurments of the linkages of the mechanical parts using the given ratios.
+2. then connect all the linkages
+3. then connect all the leds series with the resistors on the positive terminal
+4. connect the positive part of the leds to the gpio pins
+5. connect all the negative pins to common gnd
+6. connect the sonar sensor ,use the 5v supply from the arduino uno
+7. connect the motor driver to the motor
+8. appload the code to esp32 and compile the code and run.
+9. place the sonar sensor below the output of the last linkage 
+  
 Final<img width="974" height="1600" alt="WhatsApp Image 2026-09-06 at 5 04 42 AM" src="https://github.com/user-attachments/assets/faacf439-0cbd-427c-b0bb-8db51c76c1c9" />
 
-*Explain the final build*
+Basically, what I have made is a Rube Goldberg machine. Usually, people use dominoes and other physical objects to create a sequence of events in these machines. However, in my project, I have used mechanical and electronic components to demonstrate the same concept.
+
+Here, the motor generates rotary motion, which is transferred through a four-bar linkage mechanism to produce a swinging motion at the output. This swinging motion is detected using a sonar sensor, and the sensor data is sent to an ESP32 microcontroller.
+
+The ESP32 controls five LEDs, which are used to count the number of swings. Each time the mechanism completes a swing, the corresponding LED is activated, creating a visual representation of the sequence.
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+(https://drive.google.com/file/d/1QtBaWT42bCI_CGHfu-jAAXTXgpLAqFlM/view?usp=drivesdk)
 
 # Additional Demos
-[Add any extra demo materials/links]
+(https://drive.google.com/file/d/1WLwLmNIAEbSGLpz1vd8xXLsXks2Hr4L4/view?usp=drivesdk)
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
